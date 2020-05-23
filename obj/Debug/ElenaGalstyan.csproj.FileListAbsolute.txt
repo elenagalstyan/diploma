@@ -1,0 +1,218 @@
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\student2\source\repos\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\student2\Desktop\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\5 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\student2\Desktop\10 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\student2\Desktop\14 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\17 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\student2\Desktop\18 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\19 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\23 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\25 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\26 марта\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe.config
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\ElenaGalstyan.pdb
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.dll
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\bin\Debug\PagedList.xml
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csprojAssemblyReference.cache
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.dopinfa.resources
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.login.resources
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.izmenenia.resources
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.menu.resources
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.Properties.Resources.resources
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.reestr.resources
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.spisannayatexnika.resources
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.GenerateResource.cache
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.csproj.CopyComplete
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.exe
+C:\Users\galus\Desktop\ДИПЛОМ (АКТУАЛЬНЫЫЙ)\9 апреля\ElenaGalstyan\ElenaGalstyan\obj\Debug\ElenaGalstyan.pdb

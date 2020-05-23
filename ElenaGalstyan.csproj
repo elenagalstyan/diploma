@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E5BA075D-7997-48E7-9A0E-97099E1C0473}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ElenaGalstyan</RootNamespace>
+    <AssemblyName>ElenaGalstyan</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1485476036-artboard-1_78544.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="dopinfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dopinfa.Designer.cs">
+      <DependentUpon>dopinfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="izmenenia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="izmenenia.Designer.cs">
+      <DependentUpon>izmenenia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reestr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reestr.Designer.cs">
+      <DependentUpon>reestr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="spisannayatexnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spisannayatexnika.Designer.cs">
+      <DependentUpon>spisannayatexnika.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="dopinfa.resx">
+      <DependentUpon>dopinfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="izmenenia.resx">
+      <DependentUpon>izmenenia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reestr.resx">
+      <DependentUpon>reestr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spisannayatexnika.resx">
+      <DependentUpon>spisannayatexnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безымянный.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\принтер2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486564400-account_81513.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без названия.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_21998.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer_96620.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emblemunreadable_93487.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_96690.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\applicationexit_104351.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar-7_91006.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3592828-general-key-key-lock-lock-office-password-security_107759.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3592855-business-man-employee-general-human-member-office-tie_107745.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3592853-align-employee-general-human-human-list-list-member_107786.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_person_13936.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house_home_14024.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486564399-close_81512.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\systemshutdown_103390.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\constr_account_statements_icon-icons.com_66404.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486564397-menu-green_81507.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3592862-general-inkjet-printer-office-paper-printer-print-printer-scanner_107733 %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-blue_25325.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete-80_icon-icons.com_57340 %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1485476036-artboard-1_78544.ico" />
+    <Content Include="notepad_78308.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
